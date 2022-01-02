@@ -6,3 +6,9 @@
 build/
 mysql_data/
 test/
+
+certificates/
+
+.env
+
+*.g.dart
